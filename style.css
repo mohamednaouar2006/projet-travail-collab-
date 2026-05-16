@@ -1,0 +1,4 @@
+body { font-family: Arial; max-width: 500px; margin: 50px auto; }
+h1   { color: #1A56DB; }
+ul   { list-style: none; padding: 0; }
+li   { background: #EFF6FF; margin: 8px 0; padding: 10px; border-radius: 5px; }
